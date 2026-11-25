@@ -52,7 +52,7 @@ The images are available on Zenodo: **https://doi.org/10.5281/zenodo.24466635**
 
 | File | Content | Size |
 |---|---|---|
-| `data_pegasi.zip` | 476 images of DY Pegasi, 13 November 2026, 17:48 to 20:10 UTC, 9 s exposures | ~4 GB |
+| `data_pegasi.zip` | 476 images of DY Pegasi, 13 November 2026, 17:48 to 20:10 UTC, 9 s exposures | ~7 GB |
 | `test_images.zip` | One image of the same sequence, to try the notebook quickly | ~10 MB |
 
 Download the file(s) and unzip them **in the same folder as the notebook**:
@@ -123,7 +123,7 @@ For DY Pegasi with the `data_pegasi` sequence:
 
 The results are saved in `light_curve.csv`.
 
-[Light curve of DY Peg](light_curve.png)
+![Light curve of DY Peg](light_curve.png)
 
 
 ## Using the notebook for another star
